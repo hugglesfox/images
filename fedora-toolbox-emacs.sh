@@ -10,6 +10,7 @@ packages="\
     automake \
     emacs \
     fd-find \
+    fira-code-fonts \
     gcc \
     gcc-c++ \
     jq \
