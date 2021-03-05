@@ -22,6 +22,7 @@ packages="\
     python3-isort \
     python3-pyflakes \
     python3-pytest \
+    vim \
     ripgrep"
 
 container=$(buildah from fedora-toolbox:$release)
